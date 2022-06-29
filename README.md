@@ -3,6 +3,7 @@
 JabRef is an open-source, cross-platform citation and reference management tool.
 
 Stay on top of your literature: JabRef helps you to collect and organize sources, find the paper you need and discover the latest research.
+This is a draft for open source software development exercise.
 [![main table](docs/images/jabref-mainscreen.png)](http://www.jabref.org/img/jabref-mainscreen.png)
 
 ## Features
